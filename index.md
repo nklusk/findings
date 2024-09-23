@@ -4,6 +4,7 @@ supervised by prof rob duarte
 
 
 <div style="width:20%; margin: auto;">
+  
 ![workroomIcon](https://github.com/user-attachments/assets/9430668e-ca59-448e-93e7-7acacddddb5c)
 [*workroom*](workroom.md)
 
