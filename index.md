@@ -5,20 +5,13 @@ supervised by prof rob duarte
 
 
 [*workroom*](workroom.md)  
-![pageHeader_1](https://github.com/user-attachments/assets/7d99c840-264d-4edf-aafe-197f61f18704)
-
-
+![pageHeader_1-2](https://github.com/user-attachments/assets/de5d7de9-8a59-422d-bf78-37b388ad1906)
 
 
 [*study*](study.md)
-![pageHeader_2](https://github.com/user-attachments/assets/35568f0e-f199-43d5-b4e3-555f8893582f)
-
-
+![pageHeader_2-2](https://github.com/user-attachments/assets/19897f41-5af2-449c-9ce3-691df9f5d74b)
 
 
 [experiments](experiments.md)
-![pageHeader_3](https://github.com/user-attachments/assets/bbf87d6b-4782-4da0-ba5f-0b6c405d855b)
+![pageHeader_3-2](https://github.com/user-attachments/assets/754e6aa7-f283-45d3-88ce-dbfc5b3025db)
 
-
-![SR 1](https://github.com/user-attachments/assets/be03494e-47cc-48a9-976a-1a75cadfac66)
-![SR 2](https://github.com/user-attachments/assets/d2f0270e-96ef-4914-a0a0-fde3b0657301)
