@@ -11,7 +11,7 @@ supervised by prof rob duarte
 ![studyIcon](https://github.com/user-attachments/assets/329e539e-cd52-4356-af1d-2d9a126acf30)
 
 [experiments](experiments.md)
-![experimentsIcon](https://github.com/user-attachments/assets/83b5342b-9415-4850-a3e7-e0d673242361)
+![pageHeader_3](https://github.com/user-attachments/assets/bbf87d6b-4782-4da0-ba5f-0b6c405d855b)
 
 
 ![SR 1](https://github.com/user-attachments/assets/be03494e-47cc-48a9-976a-1a75cadfac66)
