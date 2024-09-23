@@ -1,8 +1,6 @@
-an IDEA grant project by natalie lusk
-
-supervised by prof rob duarte
 
 
+![pageHeader_4](https://github.com/user-attachments/assets/08ecd6a8-8b0c-4a74-88e8-dd156716e4fa)
 
 [*workroom*](workroom.md)  
 ![pageHeader_1-2](https://github.com/user-attachments/assets/de5d7de9-8a59-422d-bf78-37b388ad1906)
