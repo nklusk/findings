@@ -1,4 +1,5 @@
 
+![general info](https://github.com/user-attachments/assets/cf214fc9-f170-4914-8fc1-3869ad3fccf9)
 
 ![workroomDesc](https://github.com/user-attachments/assets/c678cd09-a33b-4052-be84-9019557b8708)
 ![SR 1](https://github.com/user-attachments/assets/55f3049e-9af3-4ef8-996b-50af75876ead)
